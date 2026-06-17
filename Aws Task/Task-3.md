@@ -45,7 +45,6 @@
 
 
 
-<img width="1901" height="907" alt="Screenshot 2026-06-12 201328" src="https://github.com/user-attachments/assets/b1488560-57fe-4ecf-9f66-61006c95e146" />
 
 
 
