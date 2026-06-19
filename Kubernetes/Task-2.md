@@ -27,9 +27,7 @@ Due to pod capacity limitations, the worker nodes were recreated using:
 t3.small
 ```
 
-### Screenshot
 
-Insert screenshot: Worker Nodes Active
 
 ------------------------------------------------------------------------
 
